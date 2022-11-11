@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069213873338",
+    "project_id": "pizza-warszawa-1984",
+    "storage_bucket": "pizza-warszawa-1984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069213873338:android:4b5f672b94a8123b2e7e83",
+        "android_client_info": {
+          "package_name": "com.lukaszmatulwewicz.pizza_warszawa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069213873338-4nbhmop2ssfd82450ecc5e4s87n3394c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsbDONKOF_kSNR-E0d-aS-74Pw7BtdzLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069213873338-4nbhmop2ssfd82450ecc5e4s87n3394c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
