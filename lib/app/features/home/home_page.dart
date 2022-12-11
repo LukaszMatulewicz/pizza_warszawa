@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:pizza_warszawa/app/home/restaurants/restaurants_page_content.dart';
+import 'package:pizza_warszawa/app/features/home/restaurants/restaurants_page_content.dart';
 
 import 'add_opinion/add_opinion_page_content.dart';
 import 'my_account/my_account_page_content.dart';
